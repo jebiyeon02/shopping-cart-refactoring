@@ -1,5 +1,5 @@
 import "./App.css";
-import ProductSection from "./ProductSection";
+import ProductSection from "./pages/ProductPage/ProductPage";
 
 function App() {
   return <ProductSection />;
